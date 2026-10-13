@@ -1,5 +1,0 @@
-C:/Users/2610512/source/repos/C_1k_1s/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/2610512/source/repos/C_1k_1s/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/2610512/source/repos/C_1k_1s/out/build/x64-debug/C_1k_1s/CMakeFiles/C_1k_1s.dir
-C:/Users/2610512/source/repos/C_1k_1s/out/build/x64-debug/C_1k_1s/CMakeFiles/edit_cache.dir
-C:/Users/2610512/source/repos/C_1k_1s/out/build/x64-debug/C_1k_1s/CMakeFiles/rebuild_cache.dir
